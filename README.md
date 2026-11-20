@@ -107,6 +107,6 @@ This project is one of my hands-on steps towards learning and building LLM and R
 
 ---
 
-**Created by:** Archna Vellingiri
+**Created by:** Archna V
 
 **GitHub:** [archna-v](https://github.com/archna-v)
